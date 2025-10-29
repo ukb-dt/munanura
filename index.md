@@ -1,6 +1,7 @@
 > *[Okunanuura](https://www.yaaka.cc/wp-content/uploads/2023/03/Runyankore-Rukiga-Dictionary.pdf)*             
 > -- Pyromancer
 
+# A
 Now *that’s* a worthy linguistic dig — because **Munanura** and **Gusobanura** may sound similar, but they actually trace two very different conceptual lineages in Kinyarwanda–Kirundi. What you’re doing here is stepping into the semantic ecology of **-nura**, a very productive Bantu root cluster. Let’s unpack that terrain carefully.
 
 ---
@@ -71,3 +72,21 @@ In short:
 Together they form a beautiful dual — the liberation of matter and the liberation of mind, yoked by the same linguistic DNA of *-nura*.
 
 The deeper you go into these verb constellations, the more the language itself becomes a philosophy of freedom.
+
+# B
+Yes — when you say the GPU “runs faster than the CPU,” you’re really pointing at the magic of **parallel processing**.
+
+Here’s what that means in plain terms:
+
+A **CPU** (central processing unit) is like a brilliant solo musician — superb at playing one complex melody at a time, switching quickly between pieces but still fundamentally sequential. It has a few cores (say 4–16), each able to handle complicated logic, branching, and system tasks.
+
+A **GPU** (graphics processing unit) is more like a massive orchestra — thousands of simpler players (cores) performing in unison. Each core isn’t as individually “smart,” but together they can process vast swaths of similar data at once. That’s why GPUs shine when the job can be split into **many small, independent computations** — like rendering pixels, training neural networks, or solving huge matrix operations.
+
+In essence, CPUs specialize in *low-latency control flow* (step-by-step reasoning), while GPUs specialize in *high-throughput computation* (doing one thing a million times simultaneously).
+
+So yes — GPUs “run faster,” but only for problems that *fit the parallel mold*. Try to run your tax software or operating system kernel on a GPU and it’ll crawl; feed it a neural net or video frame pipeline and it’ll fly.
+
+The broader metaphor here is evolutionary: CPU = neocortex (planning, branching), GPU = cerebellum (mass coordination). The modern AI ecosystem marries both — thought and motion, logic and flow — into one computational nervous system.
+
+# C
+Coming Soon..
